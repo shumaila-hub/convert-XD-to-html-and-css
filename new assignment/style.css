@@ -1,0 +1,151 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-image: url('ab.png');
+    color: white;
+}
+.box{
+    width: 50px;
+    height: 50px;
+}
+/* ul{
+ padding: 5px 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center; 
+  position: relative;
+  right: -700px;
+} */
+.nav-link, 
+.nav-link:hover{
+    color: white;
+}
+.active{
+    color: rgb(180, 10, 180);
+}
+.wallet{
+   background-color: green;
+   color: white;
+}
+
+/* Landing page styling */
+.sectio_01{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+width: 100%;
+}
+
+.info{
+    display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+width: 100%;
+}
+.btns{
+    display: flex;
+    flex-direction: column;
+
+}
+.btn_01{
+    margin: 7px;
+}
+.left{
+/* width: 600px; */
+margin: 25px;
+display: flex;
+flex-direction: column;
+text-align: start;
+
+}
+.right{
+    /* width: 600px; */
+    margin: 25px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    margin: 60px;
+
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.avator{
+    display: flex;
+    flex-direction: column;
+    /* height: 100px; */
+
+}
+.avator_01{
+    display: flex;
+    margin: 25px;
+
+}
+.avator_01 img{
+    height: 80px;
+}
+.avator_02 img{
+    height: 80px;
+    
+}
+.sec-02{
+    background-color: purple;
+    text-align: start;
+    padding: 10px;
+
+
+}
+.sec-03{
+text-align: start;
+}
+.sectio_01 h2{
+    color: purple;
+
+}
+
+.last{
+    display: flex;
+    flex-direction: row;
+height: 200px;
+
+}
+.left1{
+    float: left;
+height: 200px;
+margin-right: 42px;
+}
+.left1 img{
+    float: left;
+height: 200px;
+margin-right: 42px;
+}
+.mid{
+    margin: auto;
+       height: 200px;
+   }
+.mid img{
+ margin: auto;
+    height: 200px;
+}
+.right1{
+    float: right;
+    height: 200px;
+    margin-left: 42px;
+/* z-index: 1000; */
+}
+.right1 img{
+    float: right;
+    height: 200px;
+    margin-left: 42px;
+    /* z-index: 1000; */
+}

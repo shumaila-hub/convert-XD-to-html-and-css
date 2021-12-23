@@ -1,0 +1,152 @@
+body{
+    margin: 0px;
+    padding: 0px;
+   
+
+}
+ul{
+    margin: auto;
+}
+.nav-link, 
+.nav-link:hover{
+    color: white;
+}
+.active{
+    color: rgb(180, 10, 180);
+}
+.mmm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.mi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+}
+.box{
+    width: 50px;
+    height: 40px;
+}
+.bck{
+ padding: 5px 20px;
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;  */
+  position: relative;
+  /* right: -700px; */
+  background-color: rgb(68, 3, 68);
+}
+/* .cc{
+    padding: -20px 30px;
+    color: white;
+} */
+.wallet{
+   background-color: green;
+   color: white;
+}
+.hee{
+    text-align: left;
+    color: purple;
+}
+.pas{
+    text-align: start;
+}
+.pp{
+    padding: 10px 30px;
+}
+.sec{
+    /* border: solid white 2px; */
+    flex-direction: column;
+    /* background-color: purple; */
+    padding: 10px 30px;
+   
+}
+.sec1{
+    /* border: solid white 2px; */
+    margin: 20px 10px;
+  
+}
+.sec1b{
+    flex-direction: row;
+    background-color: rgb(122, 2, 122);
+    /* padding: 5px 10px; */
+}
+#im1{
+    background-image: url('b1.png');
+    
+}
+
+.sec2b{
+    flex-direction: row;
+    background-color: purple;
+
+}
+
+.sec2{
+    /* border: solid white 2px; */
+    margin: 20px 10px;
+    
+}
+#im2{
+    background-image: url('b2.png');
+}
+.sec3b{
+    flex-direction: row;
+    background-color: purple;
+}
+.sec3{
+    /* border: solid white 2px; */
+    margin: 20px 10px;
+   
+}
+#im3{
+    background-image: url('b3.png');
+}
+.im{
+    margin: 20px 10px;
+}
+.txx{
+    text-align: start;
+   font-size: 12px ;   
+}
+.sl{
+    /* border: solid blanchedalmond 5px; */
+    display: flex;
+    flex-direction: column;
+    
+}
+.s1{
+    /* border: solid green 5px; */
+    /* position: relative;
+    top: 5px; */
+    background-color: rgba(255, 255, 255, 0.932);
+    width: 700px;
+    color: black;
+    text-align: start;
+   
+}
+
+.bt{
+    color: red;
+    background-color: rgba(255, 255, 255, 0.932);
+}
+.foot{
+    width: 1350px;
+    height: 150px;
+    background-color: purple;
+}
+.foot1{
+    position: relative;
+    top: 100px;
+}
+.foot2{
+   
+    text-align: start;
+
+}
