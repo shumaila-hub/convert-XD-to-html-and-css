@@ -1,0 +1,128 @@
+@media (max-width:833px){
+    body{
+        display: flex;
+        flex-direction: column;
+        /* flex-wrap: wrap;
+        justify-content: center;
+        align-items: center; */
+        /* margin: 10px; */
+    }
+    .bb{
+        color: white;
+    }
+    footer{
+        margin: 0px;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        position: relative;
+        /* 
+        justify-content: center;
+        align-items: center; */
+    }
+   .sec1b{
+       flex-direction: column;
+   }
+   .main{
+    flex-direction: column;
+    margin: 5px;
+   }
+   .s1{
+       width: 100%;
+       margin: 2px;
+   }
+
+   .info{
+   
+flex-direction: column;
+/* justify-content: center;
+text-align: center; */
+margin: auto;
+   }
+   .info h1{
+       text-align: center;
+   }
+   .info p{
+       size: 10px;
+   }
+   .second{
+    flex-direction: column;
+    justify-content: center;
+   }
+   .btns{
+      
+       margin: auto;
+   }
+   .left
+   {
+       margin: 0px;
+   }
+
+   .right1{
+       margin: 5px;
+
+   }
+   .left1{
+       margin: 5px;
+
+   }
+   .mid{
+       margin: 5px;
+       
+   }
+
+   .last{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+height: 900px;
+   }
+   .left1 img{
+ margin: 0px;
+}
+.mid img{
+ margin: 0px;
+}
+.right1 img{
+  margin: 0px;
+    /* z-index: 1000; */
+}
+.avator_01{
+    margin: 5px;
+
+    height: 130px;
+}
+.avator_01 img{
+    margin: 8px;
+height: 110px;
+}
+.avator_02 img{
+    margin: 8px;
+    height: 110px;
+}
+.avator_02{
+    margin: 5px;
+    height: 130px;
+}
+.set{
+    display: flex;
+    flex-direction: column;
+}
+.cenetrall{
+    justify-content: center;
+    align-items: center;
+}
+}
+
+@media (max-width: 991px) {
+    .hide{
+        display: none;
+    }
+    
+}
+@media (max-width:994px) {
+    .rit{
+        margin-left: 6px;
+    }
+}
