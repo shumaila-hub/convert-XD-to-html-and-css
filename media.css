@@ -9,7 +9,8 @@
         /* margin: 10px; */
     }
     .mi{
-        margin: 0px;
+        flex-direction: column;
+    margin: 5px;
     }
     .bb{
         color: white;
