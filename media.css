@@ -113,6 +113,9 @@ height: 110px;
     justify-content: center;
     align-items: center;
 }
+    .zerom{
+        margin: 5px 0px;
+    }
 }
 
 @media (max-width: 991px) {
