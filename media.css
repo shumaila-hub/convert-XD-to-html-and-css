@@ -8,6 +8,9 @@
         align-items: center; */
         /* margin: 10px; */
     }
+    .pp{
+        size: 10px;
+    }
     .mi{
         flex-direction: column;
     margin: 5px;
